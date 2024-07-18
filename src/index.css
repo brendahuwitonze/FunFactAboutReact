@@ -9,8 +9,12 @@ h1 {
   flex-direction: column;
 }
 body{
-  background-color:rgba(40, 45, 53, 1);
+  margin: 0;
+  font-family: Inter, sans-serif;
+  height: 100vh;
+    background-color: #282D35;
 }
+
 /* :root {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
